@@ -1,0 +1,12 @@
+*** Class for get days checked:
+
+  > .bootstrap-datetimepicker-widget .ul.list-unstyled .li.show .div.datepicker .div.datepicker-days .table.table.table-sm tbody tr 
+
+      •  Children:
+
+          ▲ td.day.old.disabled
+          ▲ td.day.old.disabled
+          ▲ td.day
+          ▲ td.day.active
+          ▲ td.day.weekend
+          ▲ td.day.disabled.weekend
