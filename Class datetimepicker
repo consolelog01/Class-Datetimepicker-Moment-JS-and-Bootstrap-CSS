@@ -1,6 +1,6 @@
 *** Class for get days checked:
 
-  > .bootstrap-datetimepicker-widget .ul.list-unstyled .li.show .div.datepicker .div.datepicker-days .table.table.table-sm tbody tr 
+  > .bootstrap-datetimepicker-widget ul.list-unstyled li.show div.datepicker div.datepicker-days table tbody tr 
 
       •  Children:
 
