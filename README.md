@@ -17,7 +17,7 @@ For get elements of the calendar "Datetimepicker" MomentJS
 
 > Example: 
 
-    ```javascript
+  ```javascript
     
     setTimeout(() => { 
       console.log($(".bootstrap-datetimepicker-widget ul.list-unstyled li.show div.datepicker div.datepicker-days table tbody tr")) 
